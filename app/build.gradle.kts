@@ -74,6 +74,7 @@ dependencies {
 
     //Dagger-Hilt
     implementation(libs.hilt.android)
+    implementation(libs.androidx.hilt.navigation.compose)
     kapt(libs.hilt.android.compiler)
 
     //Retrofit
@@ -85,11 +86,16 @@ dependencies {
     implementation(libs.compose.shimmer)
 
 
-    //
-    val nav_version = "2.7.7"
-
+    //Navigation
     implementation(libs.androidx.navigation.compose)
 
+    //Google Play Services Tools
+    implementation(libs.play.services.location)
+
+    //Exoplayer
+//    implementation (libs.androidx.media3.exoplayer)
+//    implementation (libs.androidx.media3.ui)
+//    implementation (libs.androidx.media3.common)
 }
 
 kapt {
