@@ -68,6 +68,7 @@ Flow Diagram
 - Google Play Services
 
 ##Screenshots
+
 ![showing_weather](https://github.com/user-attachments/assets/df0bf54a-1c80-4ebf-bff9-4ac52897c65d)
 
 The above picture shows that the weather data is being shown according to the user's location.
