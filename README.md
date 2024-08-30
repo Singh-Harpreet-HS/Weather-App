@@ -67,26 +67,31 @@ Flow Diagram
 - Gradle 7.0+
 - Google Play Services
 
+##Screenshots
+![showing_weather](https://github.com/user-attachments/assets/df0bf54a-1c80-4ebf-bff9-4ac52897c65d)
+
+The above picture shows that the weather data is being shown according to the user's location.
+
+![different_weather](https://github.com/user-attachments/assets/06e12d19-de41-4965-b597-a50ea84ac20a)
+![different_location](https://github.com/user-attachments/assets/25c64306-7e22-4106-806c-fb0c19dc6d98)
+
+The above picture shows that the weather data is being shown according to the user's manually entered data, background image is also being changed according the weather condition.
+
+![showing_error](https://github.com/user-attachments/assets/f0c4fafb-a84c-4bf5-b5c6-60864852994d)
+![asking_user_to_turn_location](https://github.com/user-attachments/assets/2047e623-06fa-442d-bf6d-d9e950bd4bbb)
+
+The above picture shows that it throws error when it is not able to get the location access and prompts a request to grant the location access.
+
+
+
+
 ### Clone the repository
+
+
+
 
 ```bash
 git clone https://github.com/Singh-Harpreet-HS/Weather-App
 
-
-
-
-## Screenshots
-
-(screenshots/showing_weather.png)
-
-The above picture shows that the weather data is being shown according to the user's location.
-(screenshots/different_weather.png)
-(different_location/home_screen.png)
-
-The above picture shows that the weather data is being shown according to the user's manually entered data, background image is also being changed according the weather condition.
-(screenshots/showing_error.png)
-(screenshots/asking_user_to_turn_on_location.png)
-
-The above picture shows that it throws error when it is not able to get the location access and prompts a request to grant the location access.
 
 
