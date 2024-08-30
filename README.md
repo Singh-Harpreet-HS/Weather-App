@@ -58,12 +58,12 @@ Location Settings Check: Ensures location settings are enabled before attempting
 Flow Diagram
 
 ## Limitations
-Location Availability: If the device's location services are turned off, the app will prompt the user to enable them. However, if the user declines, weather data retrieval will fail.
-Single Data Source: The app currently uses only one API for fetching weather data. If this API becomes unavailable, the app functionality will be affected.
-Error Handling: While basic error handling is implemented, there could be improvements in handling specific cases such as network failures, API rate limits, and detailed error messages for end users.
-Battery Usage: Frequent location updates can drain the device's battery. The app requests high-accuracy location updates, which can be power-intensive.
-Permissions: The app assumes permissions will be granted by the user. If permissions are denied, the app won’t function as expected. There is room for improvement in guiding the user about permanent denial and settings management.
-No Offline Support: The app does not support offline mode. It requires an active internet connection to fetch weather data.
+- Location Availability: If the device's location services are turned off, the app will prompt the user to enable them. However, if the user declines, weather data retrieval will fail.
+- Single Data Source: The app currently uses only one API for fetching weather data. If this API becomes unavailable, the app functionality will be affected.
+- Error Handling: While basic error handling is implemented, there could be improvements in handling specific cases such as network failures, API rate limits, and detailed error messages for end users.
+- Battery Usage: Frequent location updates can drain the device's battery. The app requests high-accuracy location updates, which can be power-intensive.
+- Permissions: The app assumes permissions will be granted by the user. If permissions are denied, the app won’t function as expected. There is room for improvement in guiding the user about permanent denial and settings management.
+- No Offline Support: The app does not support offline mode. It requires an active internet connection to fetch weather data.
 
 
 ## Getting Started
