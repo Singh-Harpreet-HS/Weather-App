@@ -67,7 +67,6 @@ Flow Diagram
 - Gradle 7.0+
 - Google Play Services
 
-##Screenshots
 
 ![showing_weather](https://github.com/user-attachments/assets/df0bf54a-1c80-4ebf-bff9-4ac52897c65d)
 
