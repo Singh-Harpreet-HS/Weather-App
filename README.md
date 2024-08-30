@@ -77,16 +77,15 @@ git clone https://github.com/Singh-Harpreet-HS/Weather-App
 
 ## Screenshots
 
-![App Screenshot](screenshots/showing_weather.png)
+(screenshots/showing_weather.png)
 
 The above picture shows that the weather data is being shown according to the user's location.
-![App Screenshot](screenshots/different_weather.png)
-![App Screenshot](different_location/home_screen.png)
+(screenshots/different_weather.png)
+(different_location/home_screen.png)
 
 The above picture shows that the weather data is being shown according to the user's manually entered data, background image is also being changed according the weather condition.
-
-![App Screenshot](screenshots/showing_error.png)
-![App Screenshot](screenshots/asking_user_to_turn_on_location.png)
+(screenshots/showing_error.png)
+(screenshots/asking_user_to_turn_on_location.png)
 
 The above picture shows that it throws error when it is not able to get the location access and prompts a request to grant the location access.
 
