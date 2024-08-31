@@ -82,6 +82,8 @@ The above picture shows that the weather data is being shown according to the us
 
 ![different_weather](https://github.com/user-attachments/assets/06e12d19-de41-4965-b597-a50ea84ac20a)
 ![different_location](https://github.com/user-attachments/assets/25c64306-7e22-4106-806c-fb0c19dc6d98)
+![WhatsApp Image 2024-08-31 at 12 48 42 PM](https://github.com/user-attachments/assets/eaf632e1-9db2-4598-be34-f1d14addbc13)
+
 
 The above picture shows that the weather data is being shown according to the user's manually entered data, background image is also being changed according the weather condition.
 
